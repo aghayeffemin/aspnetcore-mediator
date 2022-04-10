@@ -1,6 +1,4 @@
-# Asp.Net Core Web API N-Tier
-
-The Mediator Pattern and CQRS sample project.
+# The Mediator Pattern and CQRS sample project
 
 ## Setup
 
