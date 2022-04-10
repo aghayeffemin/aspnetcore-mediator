@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-mediator.Domain", "aspnetcore-mediator.Domain\aspnetcore-mediator.Domain.csproj", "{7C660BBC-A709-44BA-A60B-1FD1CFB0AA68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-mediator.Application", "aspnetcore-mediator.Application\aspnetcore-mediator.Application.csproj", "{F7C1076D-AFEA-476C-A3F0-5D4E59EF7610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-mediator.Persistence", "aspnetcore-mediator.Persistence\aspnetcore-mediator.Persistence.csproj", "{108370B7-E91C-461B-87B9-0C88BCE686BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-mediator.API", "aspnetcore-mediator.API\aspnetcore-mediator.API.csproj", "{E5AF6534-B92D-4A67-88E4-6C7D65E2F427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C660BBC-A709-44BA-A60B-1FD1CFB0AA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C660BBC-A709-44BA-A60B-1FD1CFB0AA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C660BBC-A709-44BA-A60B-1FD1CFB0AA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C660BBC-A709-44BA-A60B-1FD1CFB0AA68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C1076D-AFEA-476C-A3F0-5D4E59EF7610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C1076D-AFEA-476C-A3F0-5D4E59EF7610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C1076D-AFEA-476C-A3F0-5D4E59EF7610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C1076D-AFEA-476C-A3F0-5D4E59EF7610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108370B7-E91C-461B-87B9-0C88BCE686BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108370B7-E91C-461B-87B9-0C88BCE686BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108370B7-E91C-461B-87B9-0C88BCE686BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108370B7-E91C-461B-87B9-0C88BCE686BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5AF6534-B92D-4A67-88E4-6C7D65E2F427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AF6534-B92D-4A67-88E4-6C7D65E2F427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AF6534-B92D-4A67-88E4-6C7D65E2F427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AF6534-B92D-4A67-88E4-6C7D65E2F427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDE2760C-50E4-445B-9983-FE089AF07B99}
+	EndGlobalSection
+EndGlobal
